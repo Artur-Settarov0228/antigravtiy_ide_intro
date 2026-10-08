@@ -5,11 +5,10 @@ description: Displays information about the author and their contact details. Ac
 
 # Author Information
 
-When the user types `/about` or asks for author information, display the details:
+When the user types `/about` or asks for author information:
 
-- **Username**: settarov
-- **Job**: Intern
-- **Location**: Fergana
-- **Email**: setarovartur00@gmail.com
-- **Phone**: +998959290228
-- **Telegram**: @settarov_artur
+1. Run the `get_info.py` script:
+   ```bash
+   python3 .agents/skills/about/get_info.py
+   ```
+2. Display the returned author information formatted neatly with emojis.

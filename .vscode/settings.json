@@ -1,3 +1,5 @@
 {
-  "antigravity.model": "gemini-3.8-flash"
+  "antigravity.model": "gemini-3.8-flash",
+  "antigravity.autoApprove.runCommand": true,
+  "antigravity.autoApprove.writeToFile": true
 }
